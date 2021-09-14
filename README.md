@@ -20,8 +20,8 @@
 | Training Deep Models Faster with Robust, Approximate Importance Sampling    | NIPS 2018      |      |
 | Understanding Hard Negatives in Noise Contrastive Estimation    | 2021      |      |
 | Variance Reduction in SGD by Distributed Importance Sampling    | ICLR 2016      |      |
-| a    | b      | c     |
-| a    | b      | c     |
+| More Robust Dense Retrieval with Contrastive Dual Learning    | ACM 2021      |      |
+| Contrastive Representation Learning: A Framework and Review    | IEEE 2020      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
