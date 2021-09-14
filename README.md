@@ -23,7 +23,7 @@
 | More Robust Dense Retrieval with Contrastive Dual Learning    | ACM 2021      |      |
 | Contrastive Representation Learning: A Framework and Review    | IEEE 2020      |      |
 | Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere    | ICML 2020      | c     |
-| a    | b      | c     |
+| A Simple Framework for Contrastive Learning of Visual Representations    | ICML 2020      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
