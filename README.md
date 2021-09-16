@@ -41,9 +41,9 @@
 | Batch normalization: Accelerating deep network training by reducing internal covariate shift    | 2015      |      |
 | Layer normalization    | 2016      |       |
 | Weight normalization: A simple reparameterization to accelerate training of deep neural networks    | NIPS 2016      |     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
+| Local similarity-aware deep feature embedding    | NIPS 2016      |      |
+| Deep metric learning via lifted structured feature embedding    | IEEE 2016      |      |
+| Improved deep metric learning with multi-class n-pair loss objective    | NIPS 2016      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
