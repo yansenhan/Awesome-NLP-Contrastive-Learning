@@ -24,7 +24,7 @@
 | Variance Reduction in SGD by Distributed Importance Sampling    | ICLR 2016      |      |
 | More Robust Dense Retrieval with Contrastive Dual Learning    | ACM 2021      |      |
 | Contrastive Representation Learning: A Framework and Review    | IEEE 2020      |      |
-| Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere    | ICML 2020      |      |
+| Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere    | ICML 2020      | ⭐️     |
 | A Simple Framework for Contrastive Learning of Visual Representations    | ICML 2020      |      |
 | Intriguing Properties of Contrastive Losses    | CoRR 2020      |      |
 | Representation Learning with Contrastive Predictive Coding    | 2018      |      |
