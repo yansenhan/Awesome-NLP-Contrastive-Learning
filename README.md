@@ -29,8 +29,6 @@
 | Intriguing Properties of Contrastive Losses    | CoRR 2020      |      |
 | Representation Learning with Contrastive Predictive Coding    | 2018      |      |
 | On Mutual Information Maximization for Representation Learning    | ICLR 2020      |      |
-| Representation Degeneration Problem in Training Natural Language Generation Models    | ICLR 2019      |      |
-| Improving Neural Language Generation with Spectrum Control    | ICLR 2020      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 
@@ -48,6 +46,8 @@
 | von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verication    | 2017      |      |
 | How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings    | EMNLP 2019      |      |
 | On the Sentence Embeddings from Pre-trained Language Models    | EMNLP 2020      |      |
+| Representation Degeneration Problem in Training Natural Language Generation Models    | ICLR 2019      |      |
+| Improving Neural Language Generation with Spectrum Control    | ICLR 2020      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
