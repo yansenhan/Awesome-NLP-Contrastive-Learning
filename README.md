@@ -29,8 +29,8 @@
 | Intriguing Properties of Contrastive Losses    | CoRR 2020      |      |
 | Representation Learning with Contrastive Predictive Coding    | 2018      |      |
 | On Mutual Information Maximization for Representation Learning    | ICLR 2020      |      |
-| a    | b      | c     |
-| a    | b      | c     |
+| Representation Degeneration Problem in Training Natural Language Generation Models    | ICLR 2019      |      |
+| Improving Neural Language Generation with Spectrum Control    | ICLR 2020      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 
