@@ -29,7 +29,7 @@
 | Intriguing Properties of Contrastive Losses    | CoRR 2020      |      |
 | Representation Learning with Contrastive Predictive Coding    | 2018      |      |
 | On Mutual Information Maximization for Representation Learning    | ICLR 2020      |      |
-| a    | b      | c     |
+| SimCSE: Simple Contrastive Learning of Sentence Embeddings    | 2021      |      |
 | a    | b      | c     |
 
 ## NLP Embeddeing Space and Normalization
