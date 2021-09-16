@@ -1,7 +1,9 @@
 # Awesome NLP: Constractive Learning
 > This repo. aims to record latest papers in "NLP + constractive learning".
 > Both metric learning and representation learning are related to contrastive learning. Thus, we also include these papers.
+> When I read papers, there are some other interesting papers in NLP. I will also include those papers here.
 
+## Constractive Learning
 | Papers | Conference | Codes |
 | :----- | :-------: | ----: |
 | Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval | ICLR 2021 |  |
@@ -30,6 +32,15 @@
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
+
+## NLP Embeddeing Space and Normalization
+| Papers | Conference | Comments |
+| :----- | :-------: | ----: |
+| NormFace: L2 Hypersphere Embedding for Face Verification    | 2017      |      |
+| Imagenet classication with deep convolutional neural networks    | NIPS 2012      |  Local Response Normalization and Local Contrast Normalization     |
+| Batch normalization: Accelerating deep network training by reducing internal covariate shift    | 2015      |      |
+| Layer normalization    | 2016      |       |
+| Weight normalization: A simple reparameterization to accelerate training of deep neural networks    | NIPS 2016      |     |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
@@ -37,10 +48,4 @@
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
-| a    | b      | c     |
+
