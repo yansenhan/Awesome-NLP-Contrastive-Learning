@@ -32,6 +32,7 @@
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
+| a    | b      | c     |
 
 ## NLP Embeddeing Space and Normalization
 | Papers | Conference | Comments |
@@ -45,6 +46,8 @@
 | Deep metric learning via lifted structured feature embedding    | IEEE 2016      |      |
 | Improved deep metric learning with multi-class n-pair loss objective    | NIPS 2016      |      |
 | von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verication    | 2017      |      |
+| How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings    | EMNLP 2019      |      |
+| On the Sentence Embeddings from Pre-trained Language Models    | EMNLP 2020      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 | a    | b      | c     |
