@@ -35,7 +35,7 @@
 ## NLP Embeddeing Space and Normalization
 | Papers | Conference | Comments |
 | :----- | :-------: | ----: |
-| NormFace: L2 Hypersphere Embedding for Face Verification    | 2017      |      |
+| NormFace: L2 Hypersphere Embedding for Face Verification    | 2017      | ⭐️     |
 | Imagenet classication with deep convolutional neural networks    | NIPS 2012      |  Local Response Normalization and Local Contrast Normalization     |
 | Batch normalization: Accelerating deep network training by reducing internal covariate shift    | 2015      |      |
 | Layer normalization    | 2016      |       |
