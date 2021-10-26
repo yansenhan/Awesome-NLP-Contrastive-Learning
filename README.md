@@ -1,9 +1,9 @@
-# Awesome NLP: Constractive Learning
-> This repo. aims to record latest papers in "NLP + constractive learning".
+# Awesome NLP: Contrastive Learning
+> This repo. aims to record latest papers in "NLP + contrastive learning".
 > Both metric learning and representation learning are related to contrastive learning. Thus, we also include these papers.
 > When I read papers, there are some other interesting papers in NLP. I will also include those papers here.
 
-## Constractive Learning
+## Contrastive Learning
 | Papers | Conference | Codes |
 | :----- | :-------: | ----: |
 | Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval | ICLR 2021 |  |
