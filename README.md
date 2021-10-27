@@ -49,7 +49,14 @@
 | On the Sentence Embeddings from Pre-trained Language Models    | EMNLP 2020      |      |
 | Representation Degeneration Problem in Training Natural Language Generation Models    | ICLR 2019      |      |
 | Improving Neural Language Generation with Spectrum Control    | ICLR 2020      |      |
-| a    | b      | c     |
+| Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks    | 2017      |      |
 | a    | b      | c     |
 | a    | b      | c     |
 
+## von Mises-Fisher distributions in Machine Learning
+> I consider von Mises-Fisher distributions because contrastive loss is a type of von Mises-Fisher distributions in the angle of statistics.
+| Papers | Conference | Comments |
+| :----- | :-------: | ----: |
+| Clustering on the Unit Hypersphere using von Mises-Fisher Distributions    | JMLR 2005      |      |
+| Von Mises-Fisher Clustering Models    | PMLR 2014      |      |
+| a    | b      | c     |
