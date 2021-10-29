@@ -1,7 +1,5 @@
 # Awesome NLP: Contrastive Learning
-> This repo. aims to record latest papers in "NLP + contrastive learning".
-> Both metric learning and representation learning are related to contrastive learning. Thus, we also include these papers.
-> When I read papers, there are some other interesting papers in NLP. I will also include those papers here.
+> This repo. aims to record papers realted to NLP and contrastive learning.
 
 ## Contrastive Learning
 | Papers | Conference | Codes |
