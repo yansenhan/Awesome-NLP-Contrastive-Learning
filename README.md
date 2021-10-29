@@ -54,7 +54,7 @@
 | a    | b      | c     |
 
 ## von Mises-Fisher distributions in Machine Learning
-> I consider von Mises-Fisher distributions, because contrastive loss is a type of von Mises-Fisher distributions in the angle of statistics.
+> I consider von Mises-Fisher distributions, because softmax loss with L2 normalization is a type of von Mises-Fisher distributions in the angle of statistics.
 
 | Papers | Conference | Comments |
 | :----- | :-------: | ----: |
