@@ -60,3 +60,8 @@
 | Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks    | 2017      |      |
 | von Mises-Fisher Mixture Model-based Deeplearning: Application to Face Verification | 2017 |  |
 | a    | b      | c     |
+
+## InfoMax Principle
+- http://cis.legacy.ics.tkk.fi/aapo/papers/IJCNN99_tutorialweb/node21.html
+- http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/infotheo.pdf
+- https://www.microsoft.com/en-us/research/blog/deep-infomax-learning-good-representations-through-mutual-information-maximization/
