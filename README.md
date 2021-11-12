@@ -30,6 +30,7 @@
 | SimCSE: Simple Contrastive Learning of Sentence Embeddings    | 2021      |      |
 | Understanding the Behaviour of Contrastive Loss | CVPR2021 | |
 |  A theoretical analysis of contrastive unsupervised representation learning    | ICML 2019     |      |
+|  Representation learning with contrastive predictive coding | 2019 | |
 
 ## NLP Embeddeing Space and Normalization
 | Papers | Conference | Comments |
