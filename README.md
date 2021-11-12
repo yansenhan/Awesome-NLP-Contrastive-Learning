@@ -65,3 +65,4 @@
 - http://cis.legacy.ics.tkk.fi/aapo/papers/IJCNN99_tutorialweb/node21.html
 - http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/infotheo.pdf
 - https://www.microsoft.com/en-us/research/blog/deep-infomax-learning-good-representations-through-mutual-information-maximization/
+- On mutual information maximization for representation learning, 2019
