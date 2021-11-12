@@ -29,7 +29,7 @@
 | On Mutual Information Maximization for Representation Learning    | ICLR 2020      |      |
 | SimCSE: Simple Contrastive Learning of Sentence Embeddings    | 2021      |      |
 | Understanding the Behaviour of Contrastive Loss | CVPR2021 | |
-| a    | b      | c     |
+|  A theoretical analysis of contrastive unsupervised representation learning    | ICML 2019     |      |
 
 ## NLP Embeddeing Space and Normalization
 | Papers | Conference | Comments |
