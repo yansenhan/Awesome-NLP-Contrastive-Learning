@@ -47,6 +47,7 @@
 | On the Sentence Embeddings from Pre-trained Language Models    | EMNLP 2020      |      |
 | Representation Degeneration Problem in Training Natural Language Generation Models    | ICLR 2019      |      |
 | Improving Neural Language Generation with Spectrum Control    | ICLR 2020      |      |
+|  Universally optimal distribution of points on spheres | 2007 | |
 | a    | b      | c     |
 | a    | b      | c     |
 
@@ -66,3 +67,6 @@
 - http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/infotheo.pdf
 - https://www.microsoft.com/en-us/research/blog/deep-infomax-learning-good-representations-through-mutual-information-maximization/
 - On mutual information maximization for representation learning, 2019
+- Learning deep representations by mutual information estimation and maximization. 2018
+- Learning representations by maximizing mutual information across views. 2019
+-  Contrastive multiview coding. 2019
