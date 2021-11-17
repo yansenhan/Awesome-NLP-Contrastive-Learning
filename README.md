@@ -31,6 +31,7 @@
 | Understanding the Behaviour of Contrastive Loss | CVPR2021 | |
 |  A theoretical analysis of contrastive unsupervised representation learning    | ICML 2019     |      |
 |  Representation learning with contrastive predictive coding | 2018 | |
+| Decoupled Contrastive Learning | https://arxiv.org/abs/2110.06848 | 2021 |
 
 ## NLP Embeddeing Space and Normalization
 | Papers | Conference | Comments |
